@@ -1,5 +1,3 @@
 new line1
 
-new line2
-
-line for master
+new line2 + iss55
